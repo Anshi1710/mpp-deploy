@@ -67,3 +67,6 @@ body {
     margin-top: 20px;
 }
 
+.highlight {
+    color: rgb(236, 149, 28); /* Change the color as needed */
+}
