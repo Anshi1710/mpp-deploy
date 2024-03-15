@@ -1,16 +1,16 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 10px;
     background-color: #d7d4d4;
     color: #fff;
 }
 
 .container {
     
-    max-width: 1300px;
+    max-width: 1700px;
     margin: auto ;
-    padding: 20px;
+    padding: 100px;
     background-color: #000755;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
@@ -69,4 +69,16 @@ body {
 
 .highlight {
     color: rgb(236, 149, 28); /* Change the color as needed */
+}
+
+h2, h1{
+    font-family: "Julius Sans One", sans-serif;
+}
+
+p{
+    font-family: "Archivo", sans-serif;     
+}
+
+.font{
+    font-family: "Archivo", sans-serif;
 }
