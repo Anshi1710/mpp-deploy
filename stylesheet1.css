@@ -33,9 +33,9 @@ body {
 
 .social-links a {
     display: inline-block;
-    margin: 0px;
+    margin: 0.5rem;
     text-decoration: none;
-    padding: 10px 30px;
+    padding: 13px 30px;
     background-color: #8b9fb69d;
     color: #fff;
     border-radius: 5px;
